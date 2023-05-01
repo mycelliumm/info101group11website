@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(solid\ background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.emilyinformation{
+    text-align: center;
+    border-left: solid;
+    border-left-width: 10px;
+    border-right: solid;
+    border-right-width: 10px;
+    border-bottom: solid;
+    border-bottom-width: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-color: aliceblue;
+    height: 100vh;
+}
+a:any-link {
+    color: black;
+}

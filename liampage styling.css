@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(#d38265, #bb8f9d, #d38265);
+}
+.liaminformation {
+    text-align: center;
+    background-color: #deaa81;
+    border-left: solid;
+    border-left-width: 10px;
+    border-right: solid;
+    border-right-width: 10px;
+    border-top: solid;
+    border-top-width: 10px;
+    border-bottom: solid;
+    border-bottom-width: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-color: #e5e5e5;
+    color: #a95f47;
+}
+.button {
+    color: #e5e5e5;
+    text-decoration-color: black;
+}
+a:any-link {
+   color: black; 
+}
+.sunsetpicture {
+    width: 55vh;
+    height: 35vh;
+}

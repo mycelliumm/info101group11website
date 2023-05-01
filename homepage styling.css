@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-image: linear-gradient(#deaa81, #bb8f9d, #63b1a3);
+}
+.layer {
+    border-color: #ffffff;
+    border-left: solid;
+    border-left-width: 10px;
+    border-right: solid;
+    border-right-width: 10px;
+    border-top: solid;
+    border-top-width: 10px;
+    border-bottom: solid;
+    border-bottom-width: 10px;
+    background-color: #95cacb;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.layer{
+    text-align: center;
+    color:#ffffff;
+}
+.quote{
+    background-image: linear-gradient(#95cacb, #63b1a3, #95cacb);
+    overflow: auto;
+    text-size-adjust: 20px;
+}
+.emilypicture {
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-color: #ffffff
+
+}
+.liampicture {
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-color: #ffffff
+}
+.tiffanypicture {
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-color: #ffffff
+}
+a:any-link {
+    color: #ffffff
+}
